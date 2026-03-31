@@ -1,6 +1,6 @@
 package com.ubisam.exam14.api.machines;
 
-import org.springframework.boot.autoconfigure.amqp.RabbitConnectionDetails.Address;
+// import org.springframework.boot.autoconfigure.amqp.RabbitConnectionDetails.Address;
 import org.springframework.data.rest.core.annotation.HandleAfterCreate;
 import org.springframework.data.rest.core.annotation.HandleAfterDelete;
 import org.springframework.data.rest.core.annotation.HandleAfterSave;
